@@ -147,7 +147,7 @@ body {
 
 #portheader2 {
     margin-top: -60px;
-    font-family: 'Bebas Neue', 'Times New Roman';
+    font-family: 'Bebas Neue', 'Times New Roman', sans-serif;
     font-size: 32px;
     line-height: 42px;
     color: skyblue;
