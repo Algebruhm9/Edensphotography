@@ -71,7 +71,17 @@ body {
     font-family: 'Bebas Neue', 'Times New Roman';
     font-weight: 400;
     font-size: 50px;
-    color: rgb(255, 255, 255);
+}
+
+#headertxt a {
+    color: white;
+    text-decoration:none;
+}
+
+#headertxt :hover {
+    color: rgb(251, 72, 72);
+    font-weight: bolder;
+    transition-duration: 400ms;
 }
 /* First photograph */
 #photographs {
