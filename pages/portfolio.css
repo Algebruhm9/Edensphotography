@@ -101,3 +101,42 @@ h1 {
 .wrdcaption {
     margin-top: -4px;
 }
+
+.portcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 70%);
+    padding: 40px 10px 10px 40px;
+}
+
+.portitem {
+    margin-top: 77px;
+    text-align: center;
+    text-indent: 25px;
+    font-family: 'Fira Sans', sans-serif; 
+    max-width: 900px;
+    line-height: 1.5rem;
+    color: white;
+}
+
+.portwrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#portheader {
+    margin-top: -60px;
+    font-family: 'Bebas Neue', 'Times New Roman';
+    font-size: 32px;
+    line-height: 42px;
+    color: skyblue;
+}
+
+.photographs {
+    border-radius: 4px;
+    border: 2px solid rgba(255, 255, 255, 40% );
+    max-width: 80%;
+    max-height: 80%;
+}
