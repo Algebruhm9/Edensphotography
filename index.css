@@ -81,16 +81,17 @@ body {
 #headertxt :hover {
     color: rgb(251, 72, 72);
     font-weight: bolder;
+    font-size: 54px;
     transition-duration: 400ms;
 }
 /* First photograph */
 .photographs {
     border-radius: 4px;
-    border: 2px solid rgba(255, 255, 255, 40% );
+    border: 4px solid rgb(255, 255, 255);
     max-width: 100%;
     max-height: 100%;
 }
-/* First & third paragraph & photograph */
+/* First paragraph & photograph */
 .portcontainer {
     display: flex;
     flex-direction: column;
@@ -129,7 +130,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    background-color: rgba(0, 0, 0, 70%);
+    background-color: rgb(1, 79, 134);
     padding: 40px 10px 10px 40px;
 }
 
@@ -154,5 +155,37 @@ body {
     font-family: 'Bebas Neue', 'Times New Roman', sans-serif;
     font-size: 32px;
     line-height: 42px;
-    color: skyblue;
+    color: rgb(70, 143, 175);
+}
+
+.portcontainer3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: rgb(70, 143, 175);
+    padding: 40px 10px 10px 40px;
+}
+
+.portitem3 {
+    margin-top: 77px;
+    text-align: center;
+    text-indent: 25px;
+    font-family: 'Fira Sans', sans-serif; 
+    max-width: 900px;
+    line-height: 1.5rem;
+    color: white;
+}
+
+.portwrapper3 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#portheader3 {
+    margin-top: -60px;
+    font-family: 'Bebas Neue', 'Times New Roman';
+    font-size: 32px;
+    line-height: 42px;
+    color: rgb(1, 79, 134);
 }
