@@ -12,5 +12,5 @@ I just learned **HTML & CSS** so of course this website will look bad at first. 
 Taking a look at my profile will show other repositories and other websites I have created in the past but those were the very first I created during tutorials. This website is the latest one and is made with the current knowledge I have on **HTML & CSS**. JavaScript will probably be added on another new website to better implement and JS features in the beginning of making that website. This simply shows what can be done with vanilla **HTML & CSS** without any frameworks involved. (Not like I know how to use any frameworks yet haha)
 
 
-Socials:
+## Socials:
 **Instagram**: Algebruhm8
