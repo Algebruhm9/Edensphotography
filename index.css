@@ -43,14 +43,14 @@ body {
     font-weight: 550;
 }
 
-.navitem :hover {
+.navitem :hover { /* Navigation styles when mouse hovers over navbar items */
     color: skyblue;
     font-weight: bolder;
     transition-duration: 700ms;
 }
 
 /* Logo preferences */
-.navitem:first-child {
+.navitem:first-child {  /* Need to set special rules for first item in navbar. */
     margin-right: auto;
     margin-left: 2rem;
     margin-top: -4px
@@ -78,7 +78,7 @@ body {
     text-decoration:none;
 }
 
-#headertxt :hover {
+#headertxt :hover { /* Special effects when hovering over header */
     color: rgb(251, 72, 72);
     font-weight: bolder;
     font-size: 54px;
